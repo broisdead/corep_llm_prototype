@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "properties": {
+    "fields": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "cell": { "type": "string" },
+          "value": { "type": "number" },
+          "rule_reference": { "type": "string" }
+        },
+        "required": ["cell", "value", "rule_reference"]
+      }
+    }
+  },
+  "required": ["fields"]
+}

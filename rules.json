@@ -1,0 +1,27 @@
+[
+  {
+    "id": "rule_cet1",
+    "reference": "CRR Article 26",
+    "text": "Common Equity Tier 1 (CET1) capital consists primarily of ordinary shares, retained earnings, accumulated other comprehensive income, and other disclosed reserves, after applying regulatory deductions."
+  },
+  {
+    "id": "rule_at1",
+    "reference": "CRR Article 51",
+    "text": "Additional Tier 1 (AT1) capital includes instruments that are subordinated, perpetual in nature, and able to absorb losses on a going concern basis."
+  },
+  {
+    "id": "rule_tier2",
+    "reference": "CRR Article 62",
+    "text": "Tier 2 capital consists of subordinated instruments with a minimum original maturity of at least five years and limited ability to absorb losses."
+  },
+  {
+    "id": "rule_total_capital",
+    "reference": "CRR Article 71",
+    "text": "Total capital is the sum of Common Equity Tier 1 capital, Additional Tier 1 capital, and Tier 2 capital."
+  },
+  {
+    "id": "rule_validation_total",
+    "reference": "COREP Validation Rule",
+    "text": "Institutions must ensure that Total Capital equals the sum of CET1, AT1, and Tier 2 capital amounts reported in the COREP templates."
+  }
+]
